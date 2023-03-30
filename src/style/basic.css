@@ -1,13 +1,7 @@
-.header {
+.branding {
     text-align: center;
 }
 
-.branding {
-    display: inline-block;
-}
-
 .header-links {
-    width: auto;
-    float: right !important;
-    display: inline-block;
+    text-align: right;
 }
