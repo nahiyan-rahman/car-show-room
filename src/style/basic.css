@@ -2,6 +2,7 @@ body {
     color: #FFFFFF ;
     background-color: #212121;
     font-size: large;
+    text-align: center;
 }
 
 a {
@@ -15,4 +16,15 @@ a {
 
 .header-links {
     text-align: right;
+}
+
+
+.product {
+    width: 100%;
+    max-width: 300px;
+    display: inline-block;
+}
+
+.product-img {
+    width: 90%;
 }
