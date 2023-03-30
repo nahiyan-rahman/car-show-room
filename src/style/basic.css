@@ -1,3 +1,13 @@
 .header {
-    text-align: right;
+    text-align: center;
+}
+
+.branding {
+    display: inline-block;
+}
+
+.header-links {
+    width: auto;
+    float: right !important;
+    display: inline-block;
 }
