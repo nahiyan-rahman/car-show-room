@@ -1,3 +1,12 @@
+body {
+    color: #FFFFFF ;
+    background-color: #212121;
+}
+
+a {
+    color:#FFFFFF;
+}
+
 .branding {
     text-align: center;
 }
