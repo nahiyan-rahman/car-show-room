@@ -3,6 +3,7 @@ body {
     background-color: #212121;
     font-size: large;
     font-family: 'Oswald';
+    text-align: center;
 }
 
 input {
@@ -10,20 +11,10 @@ input {
     color: #000000;
 
 }
-
 a {
     color:crimson   ;
     text-decoration: none;
 }
 
-.login form {
 
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-
-
-
-}
 
