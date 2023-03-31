@@ -14,8 +14,17 @@ a {
     text-align: center;
 }
 
-.header-links {
+.header {
+    padding: 10px;
     text-align: right;
+}
+
+.header-links {
+    text-align: left;
+    float: left;
+}
+.header-search {
+    display: inline-block;
 }
 
 
