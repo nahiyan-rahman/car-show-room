@@ -2,7 +2,6 @@ body {
     color:#FFFFFF;
     background-color: #212121;
     font-size: large;
-    text-align: center;
     font-family: 'Oswald';
 }
 
@@ -12,4 +11,19 @@ input {
 
 }
 
+a {
+    color:crimson   ;
+    text-decoration: none;
+}
+
+.login form {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+
+}
 
