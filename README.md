@@ -1,5 +1,5 @@
 # car-show-room
 
-Let's practice
+UML ER-Diagram
 
 ![](documentation/er-diagram.png)
