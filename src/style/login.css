@@ -33,6 +33,10 @@ body {
 }
 
 
+h2 {
+    color:crimson;
+}
+
 .login-form {
     margin: 10px;
     text-align: center;
