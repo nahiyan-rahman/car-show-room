@@ -12,10 +12,26 @@ body {
     text-decoration: none;
 }
 
+.userform-box {
+    text-align: center;
+    padding-top: 50px;
+
+}
+
 .form-box{
     text-align: center;
     padding-top: 50px;
 }
+
+.usersignup-form {
+    margin: 10px;
+    border-radius: 10px;
+    padding:10px;
+    background-color:#121212;
+    display:inline-block;
+    text-align: right;
+}
+
 
 .login-form {
     margin: 10px;
