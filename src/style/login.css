@@ -6,7 +6,11 @@ body {
 
 }
 
+.register {
 
+    color: crimson;
+    text-decoration: none;
+}
 
 
 .login-form {
@@ -20,7 +24,7 @@ input {
 
 }
 a {
-    color:crimson   ;
+    color:white   ;
     text-decoration: none;
 }
 
