@@ -69,3 +69,36 @@ input {
 .product-img {
     width: 90%;
 }
+
+.product-preview-img {
+    float: left;
+    display: inline;
+    padding: 10px;
+    width: 90%;
+    max-width: 500px;
+}
+
+.product-details{
+    display: inline;
+    text-align: left !important;
+}
+
+.preview-container{
+    text-align: center;
+    display: inline;
+}
+
+@media (max-width: 770px){
+    .preview-container{
+        text-align: center;
+        display: block;
+    }
+    .product-preview-img {
+        float: none;
+        display: inline-block;
+    }
+
+    .product-details{
+        display: inline-block;
+    }  
+}
