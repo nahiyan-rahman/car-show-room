@@ -6,6 +6,12 @@ body {
 
 }
 
+.register {
+
+    color: crimson;
+    text-decoration: none;
+}
+
 .form-box{
     text-align: center;
 }
@@ -25,7 +31,7 @@ input {
 
 }
 a {
-    color:crimson   ;
+    color:white   ;
     text-decoration: none;
 }
 
