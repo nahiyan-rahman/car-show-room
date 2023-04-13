@@ -32,6 +32,13 @@ body {
     text-align: right;
 }
 
+.signupsub {
+    background-color: #ffffff;
+    border-radius: 10px;
+    width: 100px;
+    font-family: 'Oswald'; 
+    color: crimson;
+}
 
 h2 {
     color:crimson;
