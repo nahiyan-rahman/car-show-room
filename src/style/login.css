@@ -3,6 +3,12 @@ body {
     background-color: #212121;
     font-size: large;
     font-family: 'Oswald';
+
+}
+
+
+.form-box {
+    padding-top: 150px;
     text-align: center;
 }
 
